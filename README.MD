@@ -86,3 +86,10 @@ export  $initHighlight;
 | Richard | Textex | Por allá 155 |
 | Isabel | Toluca | Por ahí 2233 |
 
+# Citas
+Estas es una cita
+> El estado de nuestras vidas no es nada más que el estado de nuestra mente.
+
+Esta es otra cita
+> Si cambia la forma en qué ve las cosas esas cosas cambiarán.
+
