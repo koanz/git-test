@@ -93,3 +93,14 @@ Estas es una cita
 Esta es otra cita
 > Si cambia la forma en qué ve las cosas esas cosas cambiarán.
 
+# Línea divisora
+Esto es un texto de ejemplo, primer forma: 3 guiones.
+
+---
+Esto es otro texto de ejemplo, segunda forma: 3 asteriscos.
+
+***
+Esto es otro texto de ejemplo, segunda forma: 3 guiones bajos.
+
+___
+
