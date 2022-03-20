@@ -79,3 +79,10 @@ function $initHighlight(block, cls) {
 
 export  $initHighlight;
 ```
+
+# Tablas
+| Nombre | Apellido | Dirección |
+| ------ | -------- | --------- |
+| Richard | Textex | Por allá 155 |
+| Isabel | Toluca | Por ahí 2233 |
+
