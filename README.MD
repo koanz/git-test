@@ -31,3 +31,6 @@ Underline 2
 # Links
 - <a href="http://www.google.com">Esto es un link HTML (generado en tag html: a)</a>
 - [Esto es un link HTML](http://www.google.com)
+
+# Imagenes
+![Logo Markdown](https://geekytheory.com/content/images/size/w2000/2014/03/markdown.png)
