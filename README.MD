@@ -104,3 +104,8 @@ Esto es otro texto de ejemplo, segunda forma: 3 guiones bajos.
 
 ___
 
+# Saltos de línea
+Esto es un parrafo.
+
+Estos es otro parrafo.
+
