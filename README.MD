@@ -27,3 +27,7 @@ Underline 2
 - Esto es un item de lista desordenada.
 - Esto es un item de lista desordenada.
 - Esto es un item de lista desordenada.
+
+# Links
+- <a href="http://www.google.com">Esto es un link HTML (generado en tag html: a)</a>
+- [Esto es un link HTML](http://www.google.com)
