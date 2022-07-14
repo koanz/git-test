@@ -1,3 +1,3 @@
 <?php 
-	echo "Bienvenido Usuario";
+	echo "Le damos la Bienvenida a nuestro sitio web";
 ?>
